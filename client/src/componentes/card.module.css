@@ -1,0 +1,40 @@
+.caja{
+
+    width: 350px;
+    height: 400px;
+    margin: 20px;
+    padding: 5px;
+    border: solid 2px brown;
+    display:inline-block;
+    justify-content: center; 
+    border-radius: 5%;
+    background-color: transparent;
+}
+
+.caja:hover{
+    box-shadow: 0px 1px 54px 10px rgba(0, 0, 0 , 0.56);
+    cursor:pointer;
+}
+
+.link{
+    color: black;
+    text-decoration:none ;
+
+
+}
+.link :hover{
+ color:goldenrod;
+ background-color: black;
+ width: 120px;
+}
+.h4{
+    font-family:cursive;
+}
+
+.contenido{
+    display: center;
+}
+
+.img{
+    object-fit: cover;
+}

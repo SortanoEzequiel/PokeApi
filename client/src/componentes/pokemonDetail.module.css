@@ -1,0 +1,16 @@
+.img{
+    width: 420px;
+    height: 250px;
+    padding: 0px;
+    margin-left: 34%;
+}
+.div{
+    background-color: lightblue;
+    margin:none;
+    display: center;
+    margin:auto;
+}
+.name{
+    color: black;
+    font-family: Arial Black;
+}
